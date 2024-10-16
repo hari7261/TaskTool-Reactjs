@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { TextField, Button, Select, MenuItem, Table, TableBody, TableCell, TableHead, TableRow, Container, Typography, IconButton } from '@material-ui/core';
-import { Delete, Edit, Done } from '@material-ui/icons';
+import { TextField, Button, Select, MenuItem, Table, TableBody, TableCell, TableHead, TableRow, Container, Typography, IconButton } from '@mui/material';
+import { Delete, Edit, Done } from '@mui/icons-material';
 import './App.css';
 
 function App() {
